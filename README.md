@@ -31,6 +31,13 @@ Run test
 npm run test
 ```
 
+**Server starting on port 3000**
+
+Example
+```
+http://localhost:3000
+```
+
 # **Routes**
 
 Method | URI | Description
