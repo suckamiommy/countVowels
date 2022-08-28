@@ -43,6 +43,6 @@ http://localhost:3000
 Method | URI | Description
 | ----- | ----- | ----- |
 *Route web*
-GET/HEAD | / | แสดงผลหน้าเว็บหลัก index.ejs
+GET/HEAD | / | แสดงผลหน้าเว็บหลัก index.js
 *Route API* 
 POST | /api/count-vowels | นับจำนวนสระภายในข้อความ
